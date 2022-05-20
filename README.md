@@ -12,7 +12,8 @@ Online Education has become increasingly popular since the COVID-19 has hit the 
 
 
 
-References
+## References
 
-Kaggle
-Tableau Public
+ - [Kaggle](https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education)
+
+ - [Tableau Public](https://public.tableau.com/app/profile/thais.helena.dias/viz/Adaptabilityofstudentstoonlineeducation/Histria1?publish=yes)
