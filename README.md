@@ -1,5 +1,4 @@
-# Students' Adaptability Level Prediction in Online Education using Machine
-Learning Approaches
+# Students' Adaptability Level Prediction in Online Education using Machine Learning Approaches
 
 Online Education has become increasingly popular since the COVID-19 has hit the world. Most educational institutions found online alternatives to continue educational activities, but many difficulties were encountered by students when introduced to this type of distance education. Considering this perspective, it is important that decision makers in educational institutions are informed about the effectiveness of online education so that they can take more measures to make it more profitable for students and that these courses have a high engagement and also generate value for the educational market 
 
