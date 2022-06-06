@@ -2,7 +2,7 @@
 
 Online Education has become increasingly popular since the COVID-19 has hit the world. Most educational institutions found online alternatives to continue educational activities, but many difficulties were encountered by students when introduced to this type of distance education. Considering this perspective, it is important that decision makers in educational institutions are informed about the effectiveness of online education so that they can take more measures to make it more profitable for students and that these courses have a high engagement and also generate value for the educational market 
 
-![EaDcapa](https://user-images.githubusercontent.com/101371267/169586956-8e426dc9-5b39-4079-8ce8-3b77f0e4e944.jpg)
+<img src = "![EaDcapa](https://user-images.githubusercontent.com/101371267/169586956-8e426dc9-5b39-4079-8ce8-3b77f0e4e944.jpg)" width = "390">
 
 ## Goals
 
