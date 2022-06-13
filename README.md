@@ -2,7 +2,7 @@
 
 Online Education has become increasingly popular since the COVID-19 has hit the world. Most educational institutions found online alternatives to continue educational activities, but many difficulties were encountered by students when introduced to this type of distance education. Considering this perspective, it is important that decision makers in educational institutions are informed about the effectiveness of online education so that they can take more measures to make it more profitable for students and that these courses have a high engagement and also generate value for the educational market 
 
-<img src = "https://user-images.githubusercontent.com/101371267/169586956-8e426dc9-5b39-4079-8ce8-3b77f0e4e944.jpg" width = "390", align="center">
+<img src = "https://user-images.githubusercontent.com/101371267/169586956-8e426dc9-5b39-4079-8ce8-3b77f0e4e944.jpg" width = "390">
 
 ## Goals
 
@@ -10,7 +10,7 @@ In this project, a dataset provided by Kaggle was used, where data collected thr
 As a result, prediction models were applied to identify which of the 14 parameters evaluated in the survey would be most related to student engagement in online classes.
 To get an idea of the effectiveness of online education and which main socioeconomics factors influence the adaptability of students, several machine learning algorithms were applied using Python's Pycaret library.
 
-![fotosws](https://user-images.githubusercontent.com/101371267/171920621-78de3226-e144-4bbd-b506-8297052eebd0.png)
+<img src = "https://user-images.githubusercontent.com/101371267/171920621-78de3226-e144-4bbd-b506-8297052eebd0.png" width = "390">
 
 ## To contextualize the subject globally, some relevant data on the e-learning market were collected:
 
@@ -19,7 +19,7 @@ USA, India, China, South Korea and the United Kingdom are the countries that inv
 The market size in 2021: 315 billion (USD);
 Projected value for 2028: 1 trillion (USD);
 
-![paises](https://user-images.githubusercontent.com/101371267/171921889-3d6dee3b-e19e-4669-8ca8-97f900fc7603.jpeg)
+<img src = "https://user-images.githubusercontent.com/101371267/171921889-3d6dee3b-e19e-4669-8ca8-97f900fc7603.jpeg" width = "390">
 
 ## Trends
 
@@ -44,35 +44,38 @@ source: gminsights
 
 Most respondents said they had moderate adaptability to distance education, followed by low adaptability and few people said they were highly comfortable with online learning  
 
-![nivel adp](https://user-images.githubusercontent.com/101371267/171952948-87c57530-74fe-4d41-b07c-d87f6f24caf5.png)
+<img src = "https://user-images.githubusercontent.com/101371267/171952948-87c57530-74fe-4d41-b07c-d87f6f24caf5.png" width = "390". align = "right">
 
 When we talk about gender distinction, men are mostly at a moderate or high level of adaptability, while among women, few feel able to participate in online classes.
 
-![adpXgenero](https://user-images.githubusercontent.com/101371267/171953291-d3ccaeae-0f58-4f22-90aa-21afeb68d20d.png)
+
+<img src = "(https://user-images.githubusercontent.com/101371267/171953291-d3ccaeae-0f58-4f22-90aa-21afeb68d20d.png" width = "390", align = "right">
 
 ### Socioeconomic Factors
 
 Age: students with high or moderate adaptability are mostly aged between 11-15 years and 21-25 years 
 
-![adpXidade](https://user-images.githubusercontent.com/101371267/171954647-998a072b-a890-4aed-ad6a-146faf406cc3.png)
+
+<img src = "https://user-images.githubusercontent.com/101371267/171954647-998a072b-a890-4aed-ad6a-146faf406cc3.png" width = "390", align = "right">
 
 The vast majority of students live in the city
 
-![vivem na cidade](https://user-images.githubusercontent.com/101371267/171954820-426b8f34-e0d1-4829-96f2-cf91dd7417a9.png)
+<img src = "https://user-images.githubusercontent.com/101371267/171954820-426b8f34-e0d1-4829-96f2-cf91dd7417a9.png)" width = "390", align = "right">
 
 Financial condition does not seem to be a major impediment to participating in online courses, since average people in this regard seem to have moderate or high adaptability
 
-![condiçao financeira](https://user-images.githubusercontent.com/101371267/171955378-a7b30c99-e763-483e-b03b-2fb16b38dc06.png)
+<img src = "https://user-images.githubusercontent.com/101371267/171955378-a7b30c99-e763-483e-b03b-2fb16b38dc06.png" width = "390", align = "right">
 
 ### Other factors
 
 The duration of classes between 1-3 hours is a significant parameter in student engagement in online courses 
 
-![duraçao das aulas](https://user-images.githubusercontent.com/101371267/171955836-feb3bf1c-6895-4cd5-9f8f-02f88881b45f.png)
+<img src = "https://user-images.githubusercontent.com/101371267/171955836-feb3bf1c-6895-4cd5-9f8f-02f88881b45f.png" width = "390", align = "right">
 
 And the type of device most used for this activity is the mobile phone  
 
-![tipo de dispositivo](https://user-images.githubusercontent.com/101371267/171955952-d9adefcc-e68e-47e0-afce-8fada8a7bdb8.png)
+<img src = "https://user-images.githubusercontent.com/101371267/171955952-d9adefcc-e68e-47e0-afce-8fada8a7bdb8.png" width = "390", align = "right">
+
 
 ### Models
 
