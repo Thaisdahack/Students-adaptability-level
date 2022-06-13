@@ -44,37 +44,37 @@ source: gminsights
 
 Most respondents said they had moderate adaptability to distance education, followed by low adaptability and few people said they were highly comfortable with online learning  
 
-<img src = "https://user-images.githubusercontent.com/101371267/171952948-87c57530-74fe-4d41-b07c-d87f6f24caf5.png" width = "390" align = "right">
+<img src = "https://user-images.githubusercontent.com/101371267/171952948-87c57530-74fe-4d41-b07c-d87f6f24caf5.png" width = "390">
 
 When we talk about gender distinction, men are mostly at a moderate or high level of adaptability, while among women, few feel able to participate in online classes.
 
 
-<img src = "(https://user-images.githubusercontent.com/101371267/171953291-d3ccaeae-0f58-4f22-90aa-21afeb68d20d.png" width = "390" align = "right">
+<img src = "(https://user-images.githubusercontent.com/101371267/171953291-d3ccaeae-0f58-4f22-90aa-21afeb68d20d.png" width = "390">
 
 ### Socioeconomic Factors
 
 Age: students with high or moderate adaptability are mostly aged between 11-15 years and 21-25 years 
 
 
-<img src = "https://user-images.githubusercontent.com/101371267/171954647-998a072b-a890-4aed-ad6a-146faf406cc3.png" width = "390" align = "right">
+<img src = "https://user-images.githubusercontent.com/101371267/171954647-998a072b-a890-4aed-ad6a-146faf406cc3.png" width = "390">
 
 The vast majority of students live in the city
 
-<img src = "https://user-images.githubusercontent.com/101371267/171954820-426b8f34-e0d1-4829-96f2-cf91dd7417a9.png)" width = "390" align = "right">
+<img src = "https://user-images.githubusercontent.com/101371267/171954820-426b8f34-e0d1-4829-96f2-cf91dd7417a9.png)" width = "390">
 
 Financial condition does not seem to be a major impediment to participating in online courses, since average people in this regard seem to have moderate or high adaptability
 
-<img src = "https://user-images.githubusercontent.com/101371267/171955378-a7b30c99-e763-483e-b03b-2fb16b38dc06.png" width = "390" align = "right">
+<img src = "https://user-images.githubusercontent.com/101371267/171955378-a7b30c99-e763-483e-b03b-2fb16b38dc06.png" width = "390">
 
 ### Other factors
 
 The duration of classes between 1-3 hours is a significant parameter in student engagement in online courses 
 
-<img src = "https://user-images.githubusercontent.com/101371267/171955836-feb3bf1c-6895-4cd5-9f8f-02f88881b45f.png" width = "390" align = "right">
+<img src = "https://user-images.githubusercontent.com/101371267/171955836-feb3bf1c-6895-4cd5-9f8f-02f88881b45f.png" width = "300">
 
 And the type of device most used for this activity is the mobile phone  
 
-<img src = "https://user-images.githubusercontent.com/101371267/171955952-d9adefcc-e68e-47e0-afce-8fada8a7bdb8.png" width = "390" align = "right">
+<img src = "https://user-images.githubusercontent.com/101371267/171955952-d9adefcc-e68e-47e0-afce-8fada8a7bdb8.png" width = "300">
 
 
 ### Models
